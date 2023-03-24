@@ -1,4 +1,4 @@
-Seguridad en APIs:
+De la seguridad de las APIs y de cómo esconderse debajo de las sábanas no te librará de los monstruos:
 
 - Hay que tener controladas las APIs que hay (se pueden tener en un repositorio central).
 - Hay que tener actualizadas las versiones de las APIs en este repositorio.
